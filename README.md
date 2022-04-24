@@ -8,9 +8,9 @@ docker-compose
 
 ## 运行方法
 ```
-git pull xxxx  
-cd xxx
-docker-compose up
+git pull https://github.com/keeperkwok/yuntu.git  
+cd yuntu
+docker-compose up -d 
 ```
 ## 访问地址
 ```
