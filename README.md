@@ -8,7 +8,7 @@ docker-compose
 
 ## 运行方法
 ```
-git pull https://github.com/keeperkwok/yuntu.git  
+git clone https://github.com/keeperkwok/yuntu.git  
 cd yuntu
 docker-compose up -d 
 ```
